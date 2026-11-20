@@ -1,7 +1,7 @@
 {
- "version": "2.1.1",
- "notes": "Links already clipped by this tool move to Used once, so the team never clips the same video twice. Includes everything in 2.1.0.",
- "code_url": "https://raw.githubusercontent.com/Aimersworldwide/sea-clips-releases/main/updates/sea-clips-code-2.1.1.zip",
- "sig_url": "https://raw.githubusercontent.com/Aimersworldwide/sea-clips-releases/main/updates/sea-clips-code-2.1.1.zip.sig",
+ "version": "2.1.2",
+ "notes": "Debate link sheet keeps only Ben Shapiro videos. Import Team Setup shows the sheets in Studio right away. Includes everything in 2.1.1.",
+ "code_url": "https://raw.githubusercontent.com/Aimersworldwide/sea-clips-releases/main/updates/sea-clips-code-2.1.2.zip",
+ "sig_url": "https://raw.githubusercontent.com/Aimersworldwide/sea-clips-releases/main/updates/sea-clips-code-2.1.2.zip.sig",
  "size_mb": 10
 }
