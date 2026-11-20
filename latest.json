@@ -1,7 +1,7 @@
 {
- "version": "2.1.4",
- "notes": "Sheet targets: a video that gives no clips under the campaign rules moves to Used and the next link starts at once. Political and Debate targets no longer wait on each other. Includes everything in 2.1.3.",
- "code_url": "https://raw.githubusercontent.com/Aimersworldwide/sea-clips-releases/main/updates/sea-clips-code-2.1.4.zip",
- "sig_url": "https://raw.githubusercontent.com/Aimersworldwide/sea-clips-releases/main/updates/sea-clips-code-2.1.4.zip.sig",
+ "version": "2.2",
+ "notes": "SEA CLIPS Auto Clipper 2.2: team work on shared link sheets, Debate sheet with newest videos first and a main person check before download, faster background preparation, and many fixes.",
+ "code_url": "https://raw.githubusercontent.com/Aimersworldwide/sea-clips-releases/main/updates/sea-clips-code-2.2.zip",
+ "sig_url": "https://raw.githubusercontent.com/Aimersworldwide/sea-clips-releases/main/updates/sea-clips-code-2.2.zip.sig",
  "size_mb": 10
 }
